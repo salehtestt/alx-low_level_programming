@@ -1,7 +1,6 @@
 #include<stdio.h>
 /*
- * main - A puts fun
-   c 
+ * main - A puts func 
  * Return: Always 0 {success}
  */
 int main(void)
