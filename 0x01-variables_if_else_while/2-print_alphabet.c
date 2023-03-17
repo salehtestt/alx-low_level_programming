@@ -1,19 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
-/*more headers goes there*/
-/*betty style doc for function main goes there*/
-/**
-*main - hello.c
-*Return: Always 0 (succes)
-*/
-int main(void)
-{
-char n = 97;
-while (n <= 122)
-{
-putchar(n);
-n++;
-}
-return (0);
-}
+VimCrypt~03!»Ç>ˆÌÙ–6TP€ d&ÚQﬁêl>õ„ÌÇ÷ôâ∆F ÉÌFÕRñ π8$¶}1izäÏ∫p©«ÅWC≥hÁ<Ùü:µxt¬ä]#MÀ≠◊n+4Bñ»—„¿y‰’}™πJMπçï≈3‰≤N%ÛgÄı7¿‘±Ö˝ô∞ØTæ˛Ò◊À:ﬁﬂ„∏$˚íÑıπ_ù˘ïÀ08'qÙ™ÒKÛmŸÀ  Ü~ûo˝f˘ë˝˚Ép1’¿YÚÈ4πÊn?z&ÅŒ\BG;ÉEı&˜`ˆU¶|Íc
+ eπ'◊≤&£∑)ÈçÜm
+8ç»É˜:R±˝%˘†cj†[ÀˆKæ;	∂´|˙©8PbzˇSÌœÇK_∑7a©DÒya_ÿ—,
