@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*
+/**
 *main - prints the alphabet in lowercase, followed by a new line
 *Retyrn: A;ways 0 (success)
 */
