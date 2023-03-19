@@ -8,7 +8,7 @@ int main(void)
 int b, a;
 for (a = '0'; a <= '9'; a++)
 {
-for (char b = a + 1; b <= '9'; b++)
+for (b = a + 1; b <= '9'; b++)
 {
 if (a != b)
 {
