@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*
-*main - Always print lowerr
+*main - Print lowerr case letters
 *Retyrn: A;ways 0 (success)
 */
 int main(void)
