@@ -1,14 +1,14 @@
 #include<stdio.h>
 /**
-*main - prints the alphabet in lowercase, followed by a new line
-*Retyrn: A;ways 0 (success)
+*main - prints the alphabet in lowercase, followed by a new line.
+*Return: Always 0 (success)
 */
 int main(void)
 {
-int n = 97;
-for (n = 97; n <= 122; n++)
+int a;
+for (a = 97; a <= 122; a++)
 {
-putchar(n);
+putchar(a);
 }
 putchar('\n');
 return (0);
