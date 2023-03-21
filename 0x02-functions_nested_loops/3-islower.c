@@ -1,3 +1,17 @@
-VimCrypt~03!tÑ›ˆÌö–êÍ0\ÀµÎÉÉD¹z|M\®|³Óø­GˆY¹¨joµc÷×Ã`îŠîhp]ðãØ!<íéïÒ*/t[Ýy©î3¶
-Yõ·Ä-_ê•Š¶¾¬ñaoÐìOîÞõf‰ýb“ÑÃ5R²²_(µý“Ý\®heôBQ@ó›_ÍÒÂBÏÂlš! s9Ž|`­Ûí”Ÿ¹ª*5iåÆy½IaÓÅU®Zü”‹’øXž
-0ú¾ÏÀmÿTí"ƒ¤KB)àÃ{	?¢ñÎÄVo*ØžwúŒÁ.+½°å8nT<›
+#include "main.h"
+
+
+	/**
+	 * _islower - check if char is lowercase
+	 * @c: is the char to be checked
+	 * Return: 1 if char is lowercase, otherwise 0.
+	 */
+
+
+	int _islower(int c)
+	{
+		if (c >= 'a' && c <= 'z')
+			return (1);
+		else
+			return (0);
+	}
