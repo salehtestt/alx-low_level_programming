@@ -1,12 +1,1 @@
-#include "main.h"
-/**
-*_islower - check if char is lowercase
-* Return: 1 if char is lowercase, otherwise 0.
-*/
-int _islower(int c)
-	{
-		if (c >= 'a' && c <= 'z')
-			return (1);
-		else
-			return (0);
-	}
+VimCrypt~03!£¡¶.Ý^O›Q%¼êWoãÂ„fÍ÷¯úGc	fºí‡ÌwÒ»BþéÁ‡rÜ7…!|75„N]ÖBQŠêÃ¯¯=²û¢†È#™Éœ›KÔ™‹ÈÜÙ}õÖo‚ß$@Á´fË­m;ÅŠ-Q}ÿó­Œõî6à´;ð&¯&™{ï)œýi¼åyW´bµ¬†ï«¾@²™Áfª*I»è¸²*Î/šFKw S]Ç5‰)›‚°5KN™êà)…œBñã‘éã…Çä_ìFaVè­¥Tjø,u¶ÞRª.µ¿É;ÛåfÿÔ‰Ò<h,»FØÐ<	
