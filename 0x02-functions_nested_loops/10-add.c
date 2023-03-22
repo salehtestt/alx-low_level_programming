@@ -9,5 +9,5 @@ int add(int a, int b)
 {
 int reslut = a + b;
 _putchar(reslut);
-return result;
+return reslut;
 }
