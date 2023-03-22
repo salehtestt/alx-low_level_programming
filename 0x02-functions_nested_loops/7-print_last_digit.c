@@ -10,17 +10,14 @@ int a;
 a = n % 10;
 if (n > 0)
 {
-_putchar(a);
 return (a);
 }
 else if (n == 0)
 {
-_putchar(a);
 return (a);
 }
 else
 {
-_putchar(-a);
 return (-a);
 }
 }
