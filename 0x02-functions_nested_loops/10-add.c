@@ -7,7 +7,7 @@
  */
 int add(int a, int b)
 {
-int reslut = a + b;
+int c = a + b;
 _putchar(reslut);
-return reslut;
+return (c);
 }
