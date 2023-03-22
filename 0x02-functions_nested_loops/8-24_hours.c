@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*times_table - print akk the houes
+*jack_bauer - print akk the houes
 */
-void times_table(void)
+void jack_bauer(void)
 {
 int i, j, k;
 for (i = 0; i < 10; i++)
