@@ -9,6 +9,6 @@ for (a = 1; a <= 10; a++)
 {
 for (b = 97; b <= 122; b++)
 _putchar(b);
-_putchhar('\n');
+_putchar('\n');
 }
 }
