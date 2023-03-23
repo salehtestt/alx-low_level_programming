@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *main - the func name
- *Return: always 0
- */
+*main - the func name
+*Return: always 0
+*/
 int main(void)
 {
 int i = 0;
