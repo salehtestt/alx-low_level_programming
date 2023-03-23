@@ -2,11 +2,13 @@
 /**
 *mul - the func name
 *@a: the 1 int
-*#b: the 2 int
+*@b: the 2 int
+*Return: to the int c
 */
 int mul(int a, int b)
 {
 int c;
 c = a * b;
 _putchar(c);
+return (c);
 }
