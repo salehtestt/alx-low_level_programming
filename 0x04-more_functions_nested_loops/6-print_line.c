@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *print_line - the func name
-*#n: an int 
+*#n: an int
 */
 void print_line(int n)
 {
