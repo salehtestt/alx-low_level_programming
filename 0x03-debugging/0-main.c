@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *main - the func name
-*Return: always 0
+*Return: always 0 (success)
 */
 int main(void)
 {
