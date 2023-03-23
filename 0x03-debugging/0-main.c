@@ -5,20 +5,7 @@
  */
 int main(void)
 {
-int i;
-if (i > 0)
-{
-printf("%d is positive\n", i);
+int i = 0;
 positive_or_negative(i);
-}
-else if (i == 0)
-{
-printf("%d is zero\n", i);
-positive_or_negative(i);
-}
-else
-{
-printf("%d is negative\n", i);
-positive_or_negative(i);
-}
+return (0);
 }
