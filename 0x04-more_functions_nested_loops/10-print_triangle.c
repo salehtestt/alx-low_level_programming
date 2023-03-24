@@ -22,7 +22,7 @@ for ( b = 1; b <= a; b++)
 {
 _putchar('#');
 }
-_putchar('\n');
 }
+_putchar('\n');
 }
 }
