@@ -20,8 +20,10 @@ if (a == i)
 {
 _putchar('\\');
 }
-else if (b < a
+else if (b < a)
+{
 _putchar(' ');
+}
 }
 }
 _putchar('\n');
