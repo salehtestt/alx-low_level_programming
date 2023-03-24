@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *
- *
- */
+*print_square - the func name
+*@size: an int
+*/
 void print_square(int size)
 {
 int a;
