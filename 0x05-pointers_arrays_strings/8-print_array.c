@@ -1,8 +1,8 @@
 #include "main.h"
 /**
 *print_array - the func name
-*#a: the int 1
-*#n: the int 2
+*@a: the int 1
+*@n: the int 2
 */
 void print_array(int *a, int n)
 {
