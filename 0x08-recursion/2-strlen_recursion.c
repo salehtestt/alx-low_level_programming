@@ -2,6 +2,7 @@
 /**
 *_strlen_recursion - the func name
 *@s: is the char
+*Return: to i
 */
 int _strlen_recursion(char *s)
 {
