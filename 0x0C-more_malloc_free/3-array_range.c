@@ -18,10 +18,10 @@ return (NULL);
 if (i >= min && i <= max)
 {
 m = malloc(i);
+return (m);
 }
 if (m == 0)
 {
 return (NULL);
 }
-return (m);
 }
