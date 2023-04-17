@@ -8,12 +8,13 @@
 *
 * Description: Longer description
 */
-typedef struct dogt
+struct dogt
 {
 char *name;
 float age;
 char *owner;
-}dog_t;
+};
+typedef struct dog dog_t;
 /**
 * dog_t - typedef for struct dog
 */
